@@ -2,7 +2,7 @@
 ---
 title: OverTheWIre - Bandit
 author:
-    - Narka
+    - Naraka
 tags:
     - OverTheWire
     - Bandit
